@@ -1,0 +1,5 @@
+gymnasium==0.29.1
+stable-baselines3==2.2.1
+gym-pybullet-drones==1.0.0
+numpy>=1.24.0
+shimmy>=1.3.0

@@ -1,0 +1,11 @@
+# Python boilerplate
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Project specific
+*.zip
+tensorboard_logs/
